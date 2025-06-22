@@ -1,4 +1,4 @@
-# Vite + Linaria + Storybook Issue
+# Vite + Wyw + Storybook Issue
 
 ## Prerequisites
 
@@ -9,8 +9,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/vite-linaria-storybook.git
-cd vite-linaria-storybook
+git clone https://github.com/wolt-kgarg/wyw-vite-storybook-issue.git
+cd wyw-vite-storybook-issue
 
 # Install dependencies
 pnpm install
